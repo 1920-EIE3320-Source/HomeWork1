@@ -1,8 +1,4 @@
 import java.util.Scanner;
-/**
- * @author (Cheung Tin Ho Benjamin, 19073365D)
- * Question 5
- **/
 public class Candy
 {
     public static void main(String[] args) {

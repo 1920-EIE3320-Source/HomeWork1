@@ -1,15 +1,10 @@
 import java.util.Scanner;
-/**
- * @author (Cheung Tin Ho Benjamin, 19073365D)
- * Question 1
- **/
 public class Question1
 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of lines: ");
-        int UserInput = scanner.nextInt();  // Read user input
-        System.out.println("Hello: Cheung Tin Ho Benjamin");
+        int UserInput = scanner.nextInt();
         
         for(int i = 1; i <= UserInput; ++i) {
             for(int j = 0; j < UserInput - i; j++) {

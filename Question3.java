@@ -1,7 +1,3 @@
-/**
- * @author (Cheung Tin Ho Benjamin, 19073365D)
- * Question 3
- **/
 public class Question3
 {
     public static void main(String[] args) {
